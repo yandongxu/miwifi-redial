@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "ES2016",
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "moduleResolution": "node16",
+    "declaration": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true
+  }
+}
